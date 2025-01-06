@@ -1,0 +1,5 @@
+.venv/
+__pycaache__/
+*.pyc
+.iwda/
+.vscode/
